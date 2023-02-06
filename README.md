@@ -7,3 +7,8 @@ Current version = 20221031
 Так же  данный программный продукт позволяет соединяться не только с симулятором S7-PLCSIM, но и реальным PLC S7-300, 400.
 
 Версия для инсталляции - InstallSimulationObjectSiemensPLC_S7_Step_20221031.exe.
+
+Ссылки на видео:
+https://www.youtube.com/channel/UCzw1mtPkYXOqMTcQxulGxJA 
+https://rutube.ru/channel/28234258/ 
+https://dzen.ru/id/6380667faca2f726ab8743d5/ 
