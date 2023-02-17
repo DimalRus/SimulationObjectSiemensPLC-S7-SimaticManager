@@ -1,4 +1,4 @@
-Current version = 2.12.5.0
+Current version = 2.12.5.1
 ------------------------------------------
 # SimulationObjectSiemensPLC-S7-SimaticManager
 
