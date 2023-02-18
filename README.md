@@ -6,7 +6,7 @@ Current version = 2.12.5.1
 Симулятор объектов считывает управляющие воздействия (выхода) с программного симулятора Siemens (PLCSIM) и формирует для PLCSIM сигналы с датчиков в соответствии с объектом.  
 Так же  данный программный продукт позволяет соединяться не только с симулятором S7-PLCSIM, но и реальным PLC S7-300, 400.
 
-Версия для инсталляции - InstallSimulationObjectSiemensPLC_S7_Step_20221031.exe.
+Версия для инсталляции - InstallSimulationObjectSiemensPLC-S7-SimaticManager.exe
 
 Ссылки на видео:  
 https://www.youtube.com/channel/UCzw1mtPkYXOqMTcQxulGxJA  
