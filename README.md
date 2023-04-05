@@ -12,3 +12,10 @@ Current version = 2.13.5.2
 https://www.youtube.com/channel/UCzw1mtPkYXOqMTcQxulGxJA  
 https://rutube.ru/channel/28234258/  
 https://dzen.ru/id/6380667faca2f726ab8743d5/  
+https://dzen.ru/id/6380667faca2f726ab8743d5/  
+
+Изменения:
+- Добавлена практическая работа №16. Работа задвижек.  
+- Исправлены ошибки обновления "На лету"(без загрузки инсталляционной версии).  
+- .  
+- .  
