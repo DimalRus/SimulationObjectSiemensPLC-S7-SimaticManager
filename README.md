@@ -1,4 +1,4 @@
-Current version = 2.13.5.3
+Current version = 2.13.5.4
 ------------------------------------------
 # SimulationObjectSiemensPLC-S7-SimaticManager
 
@@ -11,11 +11,10 @@ Current version = 2.13.5.3
 Ссылки на видео:  
 https://www.youtube.com/channel/UCzw1mtPkYXOqMTcQxulGxJA  
 https://rutube.ru/channel/28234258/  
-https://dzen.ru/id/6380667faca2f726ab8743d5/  
-https://dzen.ru/id/6380667faca2f726ab8743d5/  
+https://dzen.ru/id/6380667faca2f726ab8743d5/   
 
 Изменения:
-- На практически работах №16 и №17 поправлены кнопки аварийного стопа на местны пульта управления. Сейчас они выполняют функцию кнопок с фиксацией.  
+- .  
 - .  
 - .  
 - .  
