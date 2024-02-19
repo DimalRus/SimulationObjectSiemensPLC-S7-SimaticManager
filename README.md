@@ -1,4 +1,4 @@
-Current version = 2.13.5.4
+Current version = 2.13.5.5
 ------------------------------------------
 # SimulationObjectSiemensPLC-S7-SimaticManager
 
@@ -14,7 +14,7 @@ https://rutube.ru/channel/28234258/
 https://dzen.ru/id/6380667faca2f726ab8743d5/   
 
 Изменения:
-- .  
+- Отредактирован текст задания работы №4.  
 - .  
 - .  
 - .  
